@@ -12,7 +12,7 @@ const dbPath = process.env.DB_PATH || path.join('/tmp', 'data.sqlite');
 
 const PORT = process.env.PORT || 8080;
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || '28122010As';
-const SESSION_SECRET = process.env.SESSION_SECRET || 'change-this-secret';
+const SESSION_SECRET = process.env.SESSION_SECRET || 'sdfh23i04kjsdf824hksdf8234';
 
 const app = express();
 
